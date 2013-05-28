@@ -1,0 +1,39 @@
+/* Our CSS Styles */
+
+.bordered {
+	border-style: groove;
+	border-width: 4px;
+height:300px;
+}
+
+.box_title{
+font-size:18px;
+background: pink;
+padding: 5px;
+}
+.person{
+padding: 5px;
+background: blue;
+color: white; 
+border-bottom-style: dotted;
+}
+
+.message:nth-child(odd){
+background:#eee;
+padding: 2px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
