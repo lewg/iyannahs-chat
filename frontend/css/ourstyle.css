@@ -45,6 +45,11 @@
 	color: #333;
 }
 
+.chat-system-msg {
+	font-style: italic;
+	background-color: lightyellow;
+}
+
 /* Hide Login on Enter */
 .channel .loginform {
 	display: none;
