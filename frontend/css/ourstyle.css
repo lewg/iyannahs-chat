@@ -30,7 +30,7 @@
 	background:#eee;
 }
 
-.chat-log {
+#chat-log {
 	height: 270px;
 	overflow: auto;
 }
